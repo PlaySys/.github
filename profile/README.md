@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 welcome to PlaySys
 
 ![playsys header image from qb game](http://www.playsys.games/assets/images/playsys-games-banner.webp)
 
-we are a team of [software](http://www.playsys.software) and [video game](http://www.playsys.games) developers. We mainly focus on productivity tools for 3D computer graphics and the development/porting of titles for digital entertainment.
+PlaySys is a team of [software](http://www.playsys.software) and [video game](http://www.playsys.games) developers. We mainly focus on productivity tools for 3D computer graphics and the development/porting of titles for digital entertainment.
 
 Most of our tools are currently closed source, such as [Real IES](https://www.real-ies.com), [Real HDR](https://www.real-hdr.com) or [Real PBR](https://www.real-pbr.com).
 
