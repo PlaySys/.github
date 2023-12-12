@@ -6,7 +6,7 @@ PlaySys is a team of [software](http://www.playsys.software) and [video game](ht
 
 Most of our tools are currently closed source, such as [Real IES](https://www.real-ies.com), [Real HDR](https://www.real-hdr.com) or [Real PBR](https://www.real-pbr.com).
 
-Our video games for PC, console or VR are also distributed as closed source. We are the developers of [qb](https://www.qb-game.com), [Abyssus](https://www.abyssus-vr.com), [Fade Out](https://www.virtual-reality-escape-room.com), [DREAMERS](https://www.dreamers-game.com), and [Drone Tinkerer](https://www.drone-tinkerer.com).
+Our video games for PC, console or VR are also distributed as closed source. We are the developers of [qb](https://www.playsys.games/qb), [Abyssus](https://www.playsys.games/abyssus), [Fade Out](https://www.virtual-reality-escape-room.com), [DREAMERS](https://www.dreamers-game.com), and [Drone Tinkerer](https://www.drone-tinkerer.com).
 
 Among the various projects we operate under the registered trade marks [3D Architettura®](https://www.3darchitettura.com) and [Render Academy®](https://www.renderacademy.com).
 
